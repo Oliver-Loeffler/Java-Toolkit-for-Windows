@@ -61,6 +61,12 @@ Java-Toolkit-for-Windows> unzip-all
 * https://jrsoftware.org/isdl.php#stable
 * https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe
 
+## Installer Images
+
+![Welcome Dialog](images/welcome.dialog.png?raw=true "Welcome Dialog")
+![Component Selection Dialog](images/component.selection.dialog.png?raw=true "Component Selection Dialog")
+![Additional Tasks Dialog](images/additional.tasks.dialog.png?raw=true "Additional Tasks Dialog")
+![Ready To Install Dialog](images/ready.toinstall.dialog.png?raw=true "Ready To Install Dialog")
 
 ## Interesting notes
 * Run other installer: https://stackoverflow.com/questions/19589309/inno-setup-install-other-installer-and-run-it-before-continuing-my-install
