@@ -36,7 +36,7 @@ Following files are modified during installation:
 1. Clone the repository
 
 ```cmd
-git clone https://github.com/Oliver-Loeffler/Java-Toolkit-for-Windows.git
+> git clone https://github.com/Oliver-Loeffler/Java-Toolkit-for-Windows.git
 ```
 
 2. Download all components
