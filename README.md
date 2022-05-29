@@ -62,13 +62,16 @@ Java-Toolkit-for-Windows> unzip-all
 * https://jrsoftware.org/isdl.php#stable
 * https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe
 
+After a successful package compile, there should be an installer `Java-Development-Tools.exe` (approx. 1.43 GiB) inside the `build` directory.
+![Installation Package](images/installer.file.png?raw=true "Installation Package")
+
 ## Helpful stuff
 
 If you completed the InnoSetup packaging and also installed the full package on your system, you can test the installation success on Windows Commandline.
 The `jdks` command will provide an overview about what is available.
 
 ```cmd
-> jdks`
+> jdks
 
 
 ===============================================
