@@ -52,7 +52,7 @@ The InnoSetup script then requires all files unzipped and placed in a specific f
 3. Unzip all components and create required folders
 
 ```cmd
-> unzip-all
+Java-Toolkit-for-Windows> unzip-all
 ```
 
 4. Open the file `Java-Toolkit.iss` using the InnoSetup 6.2.1 IDE and run the package compile.
