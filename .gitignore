@@ -1,0 +1,12 @@
+Git-2.*-64-bit.exe
+SceneBuilder-*.msi
+eclipse-202?-??/
+apache-maven-*/
+graalvm-ce-java*/
+gradle-*/
+javafx-*/
+jbang-*/
+jdk-*/
+wix-*/
+zulu8*/
+downloads/**
