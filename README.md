@@ -63,6 +63,7 @@ Java-Toolkit-for-Windows> unzip-all
 * https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe
 
 After a successful package compile, there should be an installer `Java-Development-Tools.exe` (approx. 1.43 GiB) inside the `build` directory.
+
 ![Installation Package](images/installer.file.png?raw=true "Installation Package")
 
 ## Helpful stuff
