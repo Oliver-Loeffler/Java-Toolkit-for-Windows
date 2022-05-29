@@ -67,6 +67,7 @@ Java-Toolkit-for-Windows> unzip-all
 ![Component Selection Dialog](images/component.selection.dialog.png?raw=true "Component Selection Dialog")
 ![Additional Tasks Dialog](images/additional.tasks.dialog.png?raw=true "Additional Tasks Dialog")
 ![Ready To Install Dialog](images/ready.toinstall.dialog.png?raw=true "Ready To Install Dialog")
+![Setup Completed Dialog](images/setup.completed.dialog.png?raw=true "Setup Completed Dialog")
 
 ## Interesting notes
 * Run other installer: https://stackoverflow.com/questions/19589309/inno-setup-install-other-installer-and-run-it-before-continuing-my-install
